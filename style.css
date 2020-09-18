@@ -45,6 +45,10 @@ rules used in this template
 ====================================*/
 
 /* Main Menu Handler */
+.clear {
+  clear: both;
+}
+
 .burger-menu {
   display: inline-block;
   width: 24px;
